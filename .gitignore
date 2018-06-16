@@ -1,0 +1,24 @@
+# hidden directories
+**/.git
+**/.grunt
+**/.npm
+**/.vscode
+**/.idea
+
+# directories
+**/node_modules
+**/logs
+build
+coverage
+static/i18n
+doc
+static/images
+static/features
+storybook-static
+
+#files
+npm-debug.log
+.env
+
+# mac hidden files
+.DS_Store
